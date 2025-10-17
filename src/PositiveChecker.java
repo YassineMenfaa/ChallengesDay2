@@ -16,7 +16,7 @@ import java.util.Scanner;
         } else {
             System.out.println("The number is Negative");
         }
-        input.close();
+//        input.close();
     }
 
 }
